@@ -1,8 +1,4 @@
-Here is a comprehensive, legally compliant, and reassuring **Privacy Policy** tailored specifically for **Mentalist: Read Body Language**. 
 
-Since the app stores all data locally on the user's device and does not use a backend database, this policy is clean, simple, and excellent for App Store approval.
-
----
 
 # Privacy Policy for Mentalist: Read Body Language
 
