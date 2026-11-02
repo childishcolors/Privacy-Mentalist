@@ -26,13 +26,15 @@ We do not use RevenueCat to collect advertising identifiers for advertising purp
 
 ### 2. In-App Purchases and Subscriptions
 
-Subscriptions are purchased through Apple's **App Store**.
+Subscriptions are purchased through Apple's App Store or Google Play, depending on your device.
 
-Apple processes payment information associated with your purchase. We do not receive or store your credit card, debit card, or other payment information.
+Apple or Google processes the payment information associated with your purchase. We do not receive or store your credit card, debit card, or other payment information.
 
 We use RevenueCat to manage subscription status, verify purchases, and provide access to subscription features. RevenueCat processes this information on our behalf as a service provider/data processor.
 
 You can learn more about how RevenueCat handles data in its Privacy Policy:
+
+RevenueCat Privacy Policy 
 
 [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy?utm_source=chatgpt.com)
 
